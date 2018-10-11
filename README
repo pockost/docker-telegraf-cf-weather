@@ -1,0 +1,9 @@
+Example docker container monitoring the weather temperature at Clermont-Ferrand (FR) and storing result in InfluxDB database.
+
+Env vars
+========
+
+`INFLUXDB_HOST`: InfluxDB hostname or IP
+`INFLUXDB_NAME`: InfluxDB database name
+`INFLUXDB_USER`: InfluxDB username
+`INFLUXDB_PASSWORD`: InfluxDB password
