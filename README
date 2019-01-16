@@ -4,6 +4,13 @@ Env vars
 ========
 
 `INFLUXDB_HOST`: InfluxDB hostname or IP
+
+`INFLUXDB_PORT`: InfluxDB port
+
 `INFLUXDB_NAME`: InfluxDB database name
+
 `INFLUXDB_USER`: InfluxDB username
+
 `INFLUXDB_PASSWORD`: InfluxDB password
+
+`FORCE_TEMP`: Force temp to given value (in case of quota exceeded)
