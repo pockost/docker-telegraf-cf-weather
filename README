@@ -14,3 +14,5 @@ Env vars
 `INFLUXDB_PASSWORD`: InfluxDB password
 
 `FORCE_TEMP`: Force temp to given value (in case of quota exceeded)
+
+`RANDOM_TEMP`: Set to return random value
